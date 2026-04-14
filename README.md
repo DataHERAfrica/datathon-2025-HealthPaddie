@@ -1,4 +1,4 @@
-# datathon-2025-HealthPaddie
+# datathon-2025-HealthPaddie // Team name- Data Girls
  :herb: HealthPaddie
 
 A RAG-based digital companion delivering verified health information in local African languages.
@@ -133,6 +133,9 @@ Nunsi Shiaki — AI/ML integration & RAG logic
 Olamide Lawal — Backend development, Streamlit UI, TTS integration
 
 Glory Baigai — Data processing, UX workflow, vectorstore preparation
+
+## Link to APP
+https://healthpaddiee.streamlit.app/
 
 ## Original Repository
 https://github.com/em07-adoz/healthpaddie
