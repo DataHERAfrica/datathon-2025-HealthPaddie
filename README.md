@@ -135,4 +135,4 @@ Olamide Lawal — Backend development, Streamlit UI, TTS integration
 Glory Baigai — Data processing, UX workflow, vectorstore preparation
 
 ## Original Repository
-[https://github.com/username/project](https://github.com/em07-adoz/healthpaddie)
+https://github.com/em07-adoz/healthpaddie
